@@ -31,7 +31,7 @@ h2, h3 {
 }
 a, a:link, a:active {
   text-decoration: none;
-  color: #3fa757;
+  color: #da5387;
 }
 a:hover {
   color: #B3B3B3;
@@ -41,6 +41,7 @@ a:hover {
 /* Layout */
 .main-layout {
   background: #fff;
+  margin-top:70px;
 }
 .sidebar-nav {
   margin: 0;
@@ -95,6 +96,7 @@ div.col-sm-3 strong {
 div.col-sm-3 div.profile-about {
   margin-top: 10px;
   color: #8C8C8C;
+  font-size: 15px;
 }
 div.col-sm-3 img.profile-avatar {
   border-radius: 150px;
