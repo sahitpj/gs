@@ -31,6 +31,6 @@ Another important thing which was to be taken care at the earliest would be iden
 
 <br>
 
-Overall the progress of the project seems to be on track. The Code-base of this project will be hosted on Github shortly. Details of pyspotlight and conll modifications will be put in the next blog post (decided to keep this short and sweet). Do check out my other blog posts!
+The Code-base of this project will be hosted on Github shortly. Details of pyspotlight and conll modifications will be put in the next blog post (decided to keep this short and sweet). Do check out my other blog posts!
 
 Cheers!
